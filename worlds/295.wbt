@@ -1,0 +1,17 @@
+#VRML_SIM R2022a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.018469179160813566 -0.42142097493077313 -0.9066770380402949 6.186433826634437
+  position -2.8543999536143936 -0.0637893375113735 0.440265730805575
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 10 10
+}
+Nao {
+  controller "nao_demo_python"
+}
